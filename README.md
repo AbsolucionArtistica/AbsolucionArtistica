@@ -1,7 +1,9 @@
+![banner](https://github.com/AbsolucionArtistica/AbsolucionArtistica/assets/122127365/3bf9a250-634b-47e8-8169-eda09f1d7604)
+
 ### Hola soy Agustín Bahamondes un Full-Stack Developer
-##Aquí podran ver varios de mis proyectos, trabajo con:
-##HTML | CSS | Bootstrap | JavaScript | React | Python | SQL | SQLAlchemy | Flask | Git | Github | Scrum | Rest API
-##Y ultimamente he estado desarrollando cosas usandon Unity y C#
+Aquí podran ver varios de mis proyectos, trabajo con:
+HTML | CSS | Bootstrap | JavaScript | React | Python | SQL | SQLAlchemy | Flask | Git | Github | Scrum | Rest API
+Y ultimamente he estado desarrollando cosas usandon Unity y C#
 
 <!--
 **AbsolucionArtistica/AbsolucionArtistica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
