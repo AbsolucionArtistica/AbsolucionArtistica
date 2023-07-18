@@ -6,7 +6,7 @@ HTML | CSS | Bootstrap | JavaScript | React | Python | SQL | SQLAlchemy | Flask 
 Y ultimamente he estado desarrollando cosas usandon Unity y C#
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAbsolucionArtisticaanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbsolucionArtistica)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AbsolucionArtistica/AbsolucionArtistica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
