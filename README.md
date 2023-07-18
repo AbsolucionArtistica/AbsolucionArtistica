@@ -1,4 +1,5 @@
-### Hola soy un Full-Stack Developer, aquí podran ver varios de mis proyectos, trabajo con:
+### Hola soy Agustín Bahamondes un Full-Stack Developer
+Aquí podran ver varios de mis proyectos, trabajo con:
 HTML | CSS | Bootstrap | JavaScript | React | Python | SQL | SQLAlchemy | Flask | Git | Github | Scrum | Rest API
 Y ultimamente he estado desarrollando cosas usandon Unity y C#
 
