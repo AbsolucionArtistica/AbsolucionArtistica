@@ -1,6 +1,6 @@
 ![banner (1)](https://github.com/AbsolucionArtistica/AbsolucionArtistica/assets/122127365/1668e984-a4a3-44ce-8972-3581f2782301)
 
-### Hola soy Agustín Bahamondes un Full-Stack Developer
+### Hola soy Agustín Bahamondes
 Aquí podran ver varios de mis proyectos, trabajo con:
 HTML | CSS | Bootstrap | JavaScript | React | Python | SQL | SQLAlchemy | Flask | Git | Github | Scrum | Rest API
 Y ultimamente he estado desarrollando cosas usando Unity y C#
